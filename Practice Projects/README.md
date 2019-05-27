@@ -7,6 +7,7 @@ You should use the particular Kaggle dataset which will be informed on the whats
 * Please refrain from blindly copying the codes from the internet and your friends, but help each other out. 
 * The codes should be submitted as ```.ipynb``` notebooks which outputs for the required cells.
 * The codes should be submitted by sending a pull request to this repository.
+* The file name should have the following format ```<your_name>_<week_number>```. For eg - vatsalya_week1
 
 -------
 
