@@ -1,5 +1,4 @@
 # ML_PRACTICE
------
 
 ### This is an attempt at teaching our juniors at IIT Bhubaneswar Machine Learning.
 
@@ -7,4 +6,4 @@
 
 -----
 
-For further details please contact - [](vc13@iitbbs.ac.in)
+For further details please contact - vc13@iitbbs.ac.in
