@@ -10,5 +10,7 @@ Everyone taking this course should submit their codes for the programming assign
 * The file name should have the following format ```<your_name>_<week_number>```. For eg - vatsalya_week1
 -------
 
+This is done solely for the purpose of training.
+
 For any doubts or queries please use the whatsapp group.
 

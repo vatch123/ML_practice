@@ -6,4 +6,6 @@
 
 -----
 
+All the code files belong to their respective owners.
+
 For further details please contact - vc13@iitbbs.ac.in
